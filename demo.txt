@@ -1,2 +1,6 @@
  new changes are there
+<<<<<<< HEAD
  Hi There new changes from master
+=======
+ Hi there new changes from feature branch
+>>>>>>> feature
